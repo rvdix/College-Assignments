@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"<Unnamed>","l":"Binary"},{"p":"<Unnamed>","l":"Decimal"},{"p":"<Unnamed>","l":"Driver"},{"p":"<Unnamed>","l":"Hexadecimal"},{"p":"<Unnamed>","l":"Menu"}]

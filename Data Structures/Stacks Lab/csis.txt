@@ -1,0 +1,90 @@
+Infix:
+8 + 4 * 2 - 6
+
+Postfix:
+842*+6-
+
+Evaluated value:
+10
+
+Infix:
+7 * 2 - 4 * 3 + 2 * 5
+
+Postfix:
+72*43*-25*+
+
+Evaluated value:
+12
+
+Infix:
+2 * 3 * 4 - 8 + 9 / 3 / 3
+
+Postfix:
+23*4*8-93/3/+
+
+Evaluated value:
+17
+
+Infix:
+5 + 7 * 4 - 6
+
+Postfix:
+574*+6-
+
+Evaluated value:
+27
+
+Infix:
+( 3 + 2 * 4 ) - 7
+
+Postfix:
+324*+7-
+
+Evaluated value:
+4
+
+Infix:
+( 5 + 7 ) / ( 9 - 5 )
+
+Postfix:
+57+95-/
+
+Evaluated value:
+3
+
+Infix:
+3 * ( 5 * ( 5 - 2 ) ) - 9
+
+Postfix:
+3552-**9-
+
+Evaluated value:
+36
+
+Infix:
+( ( 5 * ( 4 + 2 ) - ( 8 + 8 ) / 2 ) - 9 ) ^ 3
+
+Postfix:
+542+*88+2/-9-3^
+
+Evaluated value:
+2197
+
+Infix:
+( ( 5 + 5 * ( 6 - 2 ) + 4 ^ 2 ) * 8 )
+
+Postfix:
+5562-*+42^+8*
+
+Evaluated value:
+328
+
+Infix:
+( ( ( 3 ^ 4 ) ) )
+
+Postfix:
+34^
+
+Evaluated value:
+81
+

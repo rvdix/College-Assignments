@@ -1,0 +1,74 @@
+First Name:     Last Name:    Gender:    Tenure:    Rate:    Salary:    
+    Howard           Starr       M          8         H         30.0
+      Joan         Jacobus       F          9         W        925.0
+     David            Renn       M          3         H         4.75
+    Albert          Cahana       M          3         H        18.75
+   Douglas           Sheer       M          5         W        250.0
+     Shari         Buchman       F          9         W        325.0
+     Freda          Heller       F          1         H          7.5
+     Ricky          Mofsen       M          6         H         12.5
+      Jean         Brennan       F          6         H          5.4
+   Deborah           Starr       F          3         W       1000.0
+     Jamie        Michaels       F          8         W        150.0
+Number of Employees: 11
+
+Women on payroll:
+Joan Jacobus
+Shari Buchman
+Freda Heller
+Jean Brennan
+Deborah Starr
+Jamie Michaels
+
+Making over 35,000 and at least 5 years with company: 
+Joan Jacobus
+
+Employees who received a raise: 
+
+     David       Renn        5.5
+   Douglas      Sheer      300.0
+     Shari    Buchman      375.0
+     Freda     Heller       8.25
+      Jean    Brennan       6.15
+     Jamie   Michaels      200.0Sorted Employees List: 
+      Jean    Brennan       6.15
+     Shari    Buchman      375.0
+    Albert     Cahana      18.75
+     Freda     Heller       8.25
+      Joan    Jacobus      925.0
+     Jamie   Michaels      200.0
+     Ricky     Mofsen       12.5
+     David       Renn        5.5
+   Douglas      Sheer      300.0
+   Deborah      Starr     1000.0
+    Howard      Starr       30.0
+
+Employees after hiring:
+   Barry      Allen
+    Jean    Brennan
+   Shari    Buchman
+  Albert     Cahana
+   Freda     Heller
+    Joan    Jacobus
+   Jamie   Michaels
+   Ricky     Mofsen
+    Nina    Pinella
+   David       Renn
+ Douglas      Sheer
+ Deborah      Starr
+  Howard      Starr
+    Lane     Wagger
+
+Employees after firing: 
+     Barry      Allen
+     Shari    Buchman
+    Albert     Cahana
+     Freda     Heller
+      Joan    Jacobus
+     Jamie   Michaels
+      Nina    Pinella
+     David       Renn
+   Douglas      Sheer
+   Deborah      Starr
+    Howard      Starr
+      Lane     Wagger
